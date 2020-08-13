@@ -18,8 +18,10 @@ The Yield Farmers' Almanac is a community-sourced reference for yield farming in
 |[Set Protocol](https://www.tokensets.com/) ||||||
 |[Yam](https://yam.finance/) ||||||
 
-## Contributing
+## 📝 Contributing
 Pull requests are welcomed and encouraged. Please aim for honesty and objectivity, so the community has reliable information they can depend on.
 
-## License
+If you would like to be a moderator (and get rewarded in tokens), please contribute some great content, and you're permissions will be updated.
+
+## 🌐 License
 [MIT](https://choosealicense.com/licenses/mit/)
