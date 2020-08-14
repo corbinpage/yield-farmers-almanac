@@ -24,6 +24,11 @@ The Yield Farmers' Almanac is a community-sourced reference for yield farming in
 |[Aave](/protocols/aave.md) $LEND|[Lending protocol](https://aave.com/) that allows multi-token markets, stable borrowing rates, flash loans, and delegated credit.|_TBD_|[Announced](https://medium.com/aave/governance-on-testnet-seize-the-power-f1237c01567d)|
 |[Set Protocol](/protocol/set.md) $SET|[Portfolio management protocols](https://www.tokensets.com/) to create, manage, and trade baskets of tokens with customizable allocations. The portfolios rebalance and optimize based on a coded strategy.|_TBD_|[Announced](https://medium.com/set-protocol/introducing-set-v2-afc577050bc0)|
 
+## 📚 Resources
+* [YieldFarming.info](https://yieldfarming.info/) for information and access on many different pools
+* [DeFi Rate](https://defirate.com/earn/) for a great overview of different opportunities
+* [CoinGecko DeFi Coins](https://www.coingecko.com/en/defi) for a list of the top DeFi coins to farm
+
 ## 📝 Contributing
 Pull requests are welcomed and encouraged. Please aim for honesty and objectivity, so the DeFi community has reliable information they can depend on. Spammy and shilly activities won't be tolerated or merged.
 
