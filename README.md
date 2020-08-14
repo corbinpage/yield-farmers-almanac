@@ -8,11 +8,12 @@ The Yield Farmers' Almanac is a community-sourced reference for yield farming in
 |Protocol (Token)|Description|Rewards|How to access|
 |---|---|---|---|
 |[Compound](/protocols/compound.md) $COMP|[Lending protocol]((https://compound.finance/)) where anyone can deposit or borrow tokens at rates (APR) set by the market.[Lending](#)|~2,880 COMP are distributed each day to borrowers (50%) and lenders (50%) of the protocol, allocated to each market [based on these rate](https://compound.finance/governance/comp).|[Compound dapp](https://app.compound.finance/)|
-|[Balancer](https://balancer.finance/) ($BAL)|Dex and automated market-maker that allows anyone to create or add liquidity to customizable pools and earn trading fees. Pools can be customized for specifc token allocations and trading fees, and a centralized routers makes sure all trades get the best price across pools. [Dex](#) [Portfolio Mgmt](#)|145,000 BAL every week with offchain rules so the team is iterating quickly on. More info can be found here: https://forum.balancer.finance/|[Balancer dapp](https://pools.balancer.exchange/#/), [Zapper Pools](https://www.zapper.fi/invest)|
+|[Balancer](/protocols/balancer.md) ($BAL)|[Dex and automated market-maker project](https://balancer.finance/)) that allows anyone to create or add liquidity to customizable token allocations pools and earn trading fees. When tokens are swapped, a centralized router  makes sure all trades get the best price across pools and passes the fees to the LPs.|145,000 BAL every week with offchain rules so the team is iterating quickly on. More info [can be found here](https://forum.balancer.finance/).|[Balancer dapp](https://pools.balancer.exchange/#/), [Zapper Pools](https://www.zapper.fi/invest)|
+|[Curve](https://www.curve.fi/) ||||
 |[Synthetix](https://www.synthetix.io/) ||||
 |[yearn.finance](https://yearn.finance/) ||||
 |[mStable](https://mstable.org/) ||||
-|[Curve](https://www.curve.fi/) ||||
+
 |[Ren Protocol](https://renproject.io/) ||||
 |[UMAl](https://umaproject.org/) ||||
 |[Aave](https://aave.com/) ||||
