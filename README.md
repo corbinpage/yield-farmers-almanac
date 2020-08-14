@@ -17,7 +17,7 @@ The Yield Farmers' Almanac is a community-sourced reference for yield farming in
 ## 🍠 Other Farming Opportunities 🌽
 |Protocol (Token)|Description|Rewards|How to access|
 |---|---|---|---|
-|[Yam](/protocols/yam.md) $YAM|[DeFi experiment](https://yam.finance/)||Deprecated, [v2 in progress](https://medium.com/@yamfinance/yam-post-rescue-attempt-update-c9c90c05953f)|zz
+|[Yam](/protocols/yam.md) $YAM|[DeFi experiment](https://yam.finance/)|Rewards were issued over mulitple Uniswap pools as well as a YAM/yCRV Uniswap pool.|Deprecated, [v2 in progress](https://medium.com/@yamfinance/yam-post-rescue-attempt-update-c9c90c05953f)|zz
 |[mStable](https://mstable.org/) $MTA|[Stablecoin, lending, and dex protocol](https://mstable.org/) meant to provide an alternative stablecoin ($mUSD) that includes aggregates existing same-peg assets, provide yield, and insure against capital loss.|Currently providing rewards on $mUSD & $MTA Balancer pools as well as Uniswap.|[Balancer](https://pools.balancer.exchange/#/)|
 |[Ren Protocol](/protocols/ren.md) $REN|Decentralized [cross-chain swap protocol](https://renproject.io/) allowing anyone to move assets across different blockchain networks. Currently supports renBTC, renBCH, and renZEC tokens on Ethereum.|$REN rewards can be farmed in the [Curve sBTC pool](https://www.curve.fi/sbtc/deposit). More [details here](https://blog.synthetix.io/btc-yield-farming-pool/).|[Curve sBTC pool](https://www.curve.fi/sbtc/deposit)|
 |[UMA](/protocols/uma.md) $UMA|Derivatives protocol](https://umaproject.org/) for creating on-chain synthetic assets.|Currently providing rewards on the yUSD-USDC pool on Balancer.|[Balancer](https://pools.balancer.exchange/#/)|
