@@ -1,5 +1,5 @@
 
-# 👨‍🌾 Yield Farmers Almanac
+# 👨‍🌾 Yield Farmers' Almanac
 Yield farming has emerged as a massive new trend in DeFi but is hard to understand, follow along, and find the best opportunities, given the rapid pace of innovation and experiments.
 
 The Yield Farmers' Almanac is a community-sourced reference for yield farming information, meant to be clear and accessible to all. 🤗
