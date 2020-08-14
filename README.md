@@ -14,14 +14,14 @@ The Yield Farmers' Almanac is a community-sourced reference for yield farming in
 |[yearn.finance](/protocols/yfi.md) $YFI|[Lending protocol aggregator](https://yearn.finance/) that utilizes Aave, Compound, Dydx, and Fulcrum to optimize and rebalance your token lending. Uses [Curve](https://www.curve.fi/) as an AMM (Automated Market Maker) for liquidity.||[yearn dapp](https://yearn.finance/)|
 
 ## 🍠 Other Farming Opportunities 🌽
-|Protocol (Token)|Description|Rewards|Status|
+|Protocol (Token)|Description|Rewards|How to access|
 |---|---|---|---|
-|[Yam](https://yam.finance/) $YAM|||[Deprecated, v2 in progress](#)|
-|[mStable](https://mstable.org/) $MTA|[Stablecoin, lending, and dex protocol](https://mstable.org/) meant to provide an alternative stablecoin ($mUSD) that includes aggregates existing same-peg assets, provide yield, and insure against capital loss.|Currently providing rewards on $mUSD & $MTA Balancer pools as well as Uniswap.||
+|[Yam](/protocols/yam.md) $YAM|[DeFi experiment](https://yam.finance/)||Deprecated, [v2 in progress](https://medium.com/@yamfinance/yam-post-rescue-attempt-update-c9c90c05953f)|zz
+|[mStable](https://mstable.org/) $MTA|[Stablecoin, lending, and dex protocol](https://mstable.org/) meant to provide an alternative stablecoin ($mUSD) that includes aggregates existing same-peg assets, provide yield, and insure against capital loss.|Currently providing rewards on $mUSD & $MTA Balancer pools as well as Uniswap.|[Balancer](https://pools.balancer.exchange/#/)|
 |[Ren Protocol](/protocols/ren.md) $REN|Decentralized [cross-chain swap protocol](https://renproject.io/) allowing anyone to move assets across different blockchain networks. Currently supports renBTC, renBCH, and renZEC tokens on Ethereum.|$REN rewards can be farmed in the [Curve sBTC pool](https://www.curve.fi/sbtc/deposit). More [details here](https://blog.synthetix.io/btc-yield-farming-pool/).|[Curve sBTC pool](https://www.curve.fi/sbtc/deposit)|
-|[UMA](/protocols/uma.md) $UMA|Derivatives protocol](https://umaproject.org/) for creating on-chain synthetic assets.|Currently providing rewards on the yUSD-USDC pool on Balancer.||
-|[Aave](/protocols/aave.md) $LEND|[Lending protocol](https://aave.com/) that allows multi-token markets, stable borrowing rates, flash loans, and delegated credit.|_TBD_|[Announced](#)|
-|[Set Protocol](/protocol/set.md) $SET|[Portfolio management protocols](https://www.tokensets.com/) to create, manage, and trade baskets of tokens with customizable allocations. The portfolios rebalance and optimize based on a coded strategy.|_TBD_|[Announced](#)|
+|[UMA](/protocols/uma.md) $UMA|Derivatives protocol](https://umaproject.org/) for creating on-chain synthetic assets.|Currently providing rewards on the yUSD-USDC pool on Balancer.|[Balancer](https://pools.balancer.exchange/#/)|
+|[Aave](/protocols/aave.md) $LEND|[Lending protocol](https://aave.com/) that allows multi-token markets, stable borrowing rates, flash loans, and delegated credit.|_TBD_|[Announced](https://medium.com/aave/governance-on-testnet-seize-the-power-f1237c01567d)|
+|[Set Protocol](/protocol/set.md) $SET|[Portfolio management protocols](https://www.tokensets.com/) to create, manage, and trade baskets of tokens with customizable allocations. The portfolios rebalance and optimize based on a coded strategy.|_TBD_|[Announced](https://medium.com/set-protocol/introducing-set-v2-afc577050bc0)|
 
 ## 📝 Contributing
 Pull requests are welcomed and encouraged. Please aim for honesty and objectivity, so the DeFi community has reliable information they can depend on.
