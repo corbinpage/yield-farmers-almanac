@@ -25,7 +25,11 @@ The Yield Farmers' Almanac is a community-sourced reference for yield farming in
 |[Set Protocol](/protocol/set.md) $SET|[Portfolio management protocols](https://www.tokensets.com/) to create, manage, and trade baskets of tokens with customizable allocations. The portfolios rebalance and optimize based on a coded strategy.|_TBD_|[Announced](https://medium.com/set-protocol/introducing-set-v2-afc577050bc0)|
 
 ## 📝 Contributing
-Pull requests are welcomed and encouraged. Please aim for honesty and objectivity, so the DeFi community has reliable information they can depend on.
+Pull requests are welcomed and encouraged. Please aim for honesty and objectivity, so the DeFi community has reliable information they can depend on. Some contribution opportunities:
+* Add new yield farming opportunities
+* Fill out the protocol pages under the `/protocols` folder
+* Translate the summaries to other languages
+* Add return ranges for different pools
 
 If you would like to be a moderator (and get rewarded in tokens), please contribute some great content, and you're permissions will be updated.
 
