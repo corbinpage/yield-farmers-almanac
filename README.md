@@ -23,6 +23,7 @@ The Yield Farmers' Almanac is a community-sourced reference for yield farming in
 |[UMA](/protocols/uma.md) $UMA|[Derivatives protocol](https://umaproject.org/) for creating on-chain synthetic assets.|Currently providing rewards on the yUSD-USDC pool on Balancer.|[Balancer](https://pools.balancer.exchange/#/)|
 |[Aave](/protocols/aave.md) $LEND|[Lending protocol](https://aave.com/) that allows multi-token markets, stable borrowing rates, flash loans, and delegated credit.|_TBD_|[Announced](https://medium.com/aave/governance-on-testnet-seize-the-power-f1237c01567d)|
 |[Set Protocol](/protocol/set.md) $SET|[Portfolio management protocols](https://www.tokensets.com/) to create, manage, and trade baskets of tokens with customizable allocations. The portfolios rebalance and optimize based on a coded strategy.|_TBD_|[Announced](https://medium.com/set-protocol/introducing-set-v2-afc577050bc0)|
+|[based.money](/protocol/based.md) $BASED|A [DeFi game of chicken](https://based.money/). The $BASED token combines a simplified version of Ampleforth’s economic policy with YFI’s distribution mechanism. The result is a post-modern economic game that continually resets. The barrier of entry is fair and balanced for all participants|TBD|[Staking App](https://stake.based.money/)|
 
 ## 📚 Resources
 * [YieldFarming.info](https://yieldfarming.info/) for information and access on many different pools
