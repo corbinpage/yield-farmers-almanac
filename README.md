@@ -7,7 +7,7 @@ The Yield Farmers' Almanac is a community-sourced reference for yield farming in
 ## 🔥 Hot Protocols 🔥
 |Protocol (Token)|Description|Rewards|How to access|
 |---|---|---|---|
-|[Compound](/protocols/compound.md) $COMP|[Lending protocol]((https://compound.finance/)) where anyone can deposit or borrow tokens at rates (APR) set by the market.|~2,880 COMP are distributed each day to borrowers (50%) and lenders (50%) of the protocol, allocated to each market [based on these rate](https://compound.finance/governance/comp).|[Compound dapp](https://app.compound.finance/)|
+|[Compound](/protocols/compound.md) $COMP|[Lending protocol](https://compound.finance/) where anyone can deposit or borrow tokens at rates (APR) set by the market.|~2,880 COMP are distributed each day to borrowers (50%) and lenders (50%) of the protocol, allocated to each market [based on these rate](https://compound.finance/governance/comp).|[Compound dapp](https://app.compound.finance/)|
 |[Balancer](/protocols/balancer.md) $BAL|[Dex and automated market-maker project](https://balancer.finance/)) that allows anyone to create or add liquidity to customizable token allocations pools and earn trading fees. When tokens are swapped, a centralized router  makes sure all trades get the best price across pools and passes the fees to the LPs.|145,000 BAL every week with offchain rules so the team is iterating quickly on. More info [can be found here](https://forum.balancer.finance/).|[Balancer dapp](https://pools.balancer.exchange/#/), [Zapper Pools](https://www.zapper.fi/invest)|
 |[Curve](https://www.curve.fi/) $CRV|[Dex](https://www.curve.fi/) designed to be efficient and cheap for swapping stablecoins with low slippage. Liquiditiy pool tokens are also deposited into lending protocols like Compound to earn additinal fees and rewards.|Allocation process is in progress and [can be followed here](https://guides.curve.fi/how-to-earn-and-claim-crv/).|[Curve dapp](https://www.curve.fi/)|
 |[Synthetix](/protocols/synthetix.md) $SNX|[Derivatives protocol](https://www.synthetix.io/) for creating on-chain synthetic assets that track the value of real-world assets, including fiat currencies, commodities (e.g., gold), and cryptoassets. Stocks, indices, and other derivatives are planned.||[Mintr dapp](https://www.synthetix.io/products/mintr)|
@@ -17,18 +17,14 @@ The Yield Farmers' Almanac is a community-sourced reference for yield farming in
 |Protocol (Token)|Description|Rewards|Status|
 |---|---|---|---|
 |[Yam](https://yam.finance/) $YAM|||[Deprecated, v2 in progress](#)|
-|[Aave](/protocols/aave.md) $LEND|[Lending protocol](https://aave.com/) that allows multi-token markets, stable borrowing rates, flash loans, and delegated credit.||[Announced](#)|
-|[Set Protocol](https://www.tokensets.com/) $SET|||[Announced](#)|
-|[mStable](https://mstable.org/) $MTA|[Stablecoin, lending, and dex protocol](https://mstable.org/) meant to provide an alternative stablecoin that includes aggregates existing same-peg assets, provide yield, and insure against capital loss.|||
+|[mStable](https://mstable.org/) $MTA|[Stablecoin, lending, and dex protocol](https://mstable.org/) meant to provide an alternative stablecoin ($mUSD) that includes aggregates existing same-peg assets, provide yield, and insure against capital loss.|Currently providing rewards on $mUSD & $MTA Balancer pools as well as Uniswap.||
 |[Ren Protocol](/protocols/ren.md) $REN|Decentralized [cross-chain swap protocol](https://renproject.io/) allowing anyone to move assets across different blockchain networks. Currently supports renBTC, renBCH, and renZEC tokens on Ethereum.|$REN rewards can be farmed in the [Curve sBTC pool](https://www.curve.fi/sbtc/deposit). More [details here](https://blog.synthetix.io/btc-yield-farming-pool/).|[Curve sBTC pool](https://www.curve.fi/sbtc/deposit)|
-|[UMAl](https://umaproject.org/) $UMA||||
-
-
-
-
+|[UMA](/protocols/uma.md) $UMA|Derivatives protocol](https://umaproject.org/) for creating on-chain synthetic assets.|Currently providing rewards on the yUSD-USDC pool on Balancer.||
+|[Aave](/protocols/aave.md) $LEND|[Lending protocol](https://aave.com/) that allows multi-token markets, stable borrowing rates, flash loans, and delegated credit.|_TBD_|[Announced](#)|
+|[Set Protocol](/protocol/set.md) $SET|[Portfolio management protocols](https://www.tokensets.com/) to create, manage, and trade baskets of tokens with customizable allocations. The portfolios rebalance and optimize based on a coded strategy.|_TBD_|[Announced](#)|
 
 ## 📝 Contributing
-Pull requests are welcomed and encouraged. Please aim for honesty and objectivity, so the community has reliable information they can depend on.
+Pull requests are welcomed and encouraged. Please aim for honesty and objectivity, so the DeFi community has reliable information they can depend on.
 
 If you would like to be a moderator (and get rewarded in tokens), please contribute some great content, and you're permissions will be updated.
 
