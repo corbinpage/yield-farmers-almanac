@@ -1,1 +1,7 @@
-synthetix.md
+# Synthetix
+
+## Yield opportunities
+
+## Token Supply
+
+## Governance
