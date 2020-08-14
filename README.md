@@ -2,7 +2,7 @@
 # 👨‍🌾 Yield Farmers' Almanac
 Yield farming has emerged as a massive new trend in DeFi but is hard to understand, follow along, and find the best opportunities, given the rapid pace of innovation and experiments.
 
-The Yield Farmers' Almanac is a community-sourced reference for yield farming information, meant to be clear and accessible to all. 🤗
+The Yield Farmers' Almanac is a community-sourced reference for yield farming information, meant to be clear and accessible to all. 🤗 We'll distribute tokens retroactively to the contributors adding the best and most up-to-date content.
 
 ## 🔥 Hot Protocols 🔥
 |Protocol (Token)|Description|Rewards|How to access|
