@@ -19,11 +19,16 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
+[🔥 Hot Protocols 🔥](index.md)
 
-[Protocols]()
+[What is Yield Farming?](index.md)
+
+[All Protocols]()
+
   * [Compound](protocols/compound.md)
   * [Curve](protocols/curve.md)
   * [Balancer](protocols/balancer.md)
+  - - - -
 
 [View on Github](https://github.com/corbinpage/yield-farmers-almanac)
 
