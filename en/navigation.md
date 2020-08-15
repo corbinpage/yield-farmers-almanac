@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Yield Farmers' Almanac
+# 👨‍🌾 Yield Farmers' Almanac
 
 
 <!--
@@ -11,13 +11,19 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -->
 
-[gimmick:theme](yeti)
+[gimmick:theme (inverse: true)](cyborg)
 
 
 <!--
   -- Navigation
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
+
+
+[Protocols]()
+  * [Compound](protocols/compound.md)
+  * [Curve](protocols/curve.md)
+  * [Balancer](protocols/balancer.md)
 
 [View on Github](https://github.com/corbinpage/yield-farmers-almanac)
 
