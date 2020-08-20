@@ -38,7 +38,7 @@ Some contribution opportunities:
 * Translate the summaries to other languages
 * Add return ranges for different pools
 
-If you would like to be a moderator (and get rewarded in tokens), please contribute some great content, and you're permissions will be updated.
+If you would like to be a moderator (and get rewarded in tokens), please contribute some great content, and your permissions will be updated.
 
 ## 🌐 License
 [MIT](https://choosealicense.com/licenses/mit/)
